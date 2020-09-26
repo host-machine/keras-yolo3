@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>3-305.jpg</filename>
+	<path>D:\VOC2020\Image\train_img\3\3-305.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pig</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>98</ymin>
+			<xmax>1015</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>

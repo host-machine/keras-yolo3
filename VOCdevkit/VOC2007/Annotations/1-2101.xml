@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>1-2101.jpg</filename>
+	<path>C:\Users\YuJun\Desktop\标注数据\数据\train_img\1\1-2101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pig</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>92</ymin>
+			<xmax>936</xmax>
+			<ymax>658</ymax>
+		</bndbox>
+	</object>
+</annotation>
